@@ -1,0 +1,3 @@
+# About me
+## Deepansha Singh
+### Deepansha is a third year Math-CS major at UCSD. She really loves coding and has been a Google STEP intern this past summer, participated in Google CSSI before, and currently is part of Google CSRMP. She also is planning on returning to Google as a SWE intern next summer! In her free time, she enjoys doing jigsaw puzzles, watching movies, shopping, & hanging out with family + friends!
